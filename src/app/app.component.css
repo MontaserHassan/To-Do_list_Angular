@@ -1,0 +1,24 @@
+
+
+
+.waiting{
+  text-decoration: line-through;
+  background-color: white;
+}
+
+.waiting:hover{
+  text-decoration: line-through;
+  background-color: black;
+  color: white;
+}
+
+.notWaiting{
+  text-decoration: none;
+  background-color: black;
+  color: green;
+}
+
+.notWaiting:hover{
+  text-decoration: none;
+  background-color: wheat;
+}
